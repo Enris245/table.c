@@ -10,5 +10,5 @@ scanf("%d",&num);
 printf("till how many number you want");
 scanf("%d",&div);
 for(int x=0; x<=div;x++)
-   printf("%d * %d = %d \n",num,x,x * num); 
-}
+   printf("%d * %d = %d \n",num,x,x * num); }
+
